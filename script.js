@@ -1,5 +1,5 @@
 // ## Instructions
-
+console.log("hello I am working")
 // The completed application should meet the following criteria:
 
 // * As a user, I want to start the game by clicking on a button. 

@@ -1,0 +1,21 @@
+.startspot {
+  text-align: center;
+  font-size: large;
+  font-family: "Courier New", Courier, monospace;
+  background-color: lightblue;
+}
+
+#startBtn {
+  border-radius: 5px;
+  background-color: transparent;
+  padding: 5px 10px;
+  margin: 5px;
+}
+
+.timer {
+  display: inline block;
+  text-align: center;
+  border: 1px solid black;
+  padding: 5px 10px;
+  margin: 5px;
+}
